@@ -1,0 +1,10 @@
+C:\Users\umran\Desktop\sunu\rsa\obj\Debug\rsa.csprojAssemblyReference.cache
+C:\Users\umran\Desktop\sunu\rsa\obj\Debug\rsa.Form1.resources
+C:\Users\umran\Desktop\sunu\rsa\obj\Debug\rsa.Properties.Resources.resources
+C:\Users\umran\Desktop\sunu\rsa\obj\Debug\rsa.csproj.GenerateResource.cache
+C:\Users\umran\Desktop\sunu\rsa\obj\Debug\rsa.csproj.CoreCompileInputs.cache
+C:\Users\umran\Desktop\sunu\rsa\bin\Debug\rsa.exe.config
+C:\Users\umran\Desktop\sunu\rsa\bin\Debug\rsa.exe
+C:\Users\umran\Desktop\sunu\rsa\bin\Debug\rsa.pdb
+C:\Users\umran\Desktop\sunu\rsa\obj\Debug\rsa.exe
+C:\Users\umran\Desktop\sunu\rsa\obj\Debug\rsa.pdb
